@@ -1,5 +1,6 @@
 # Production_ready_tensorflow
 
+![alt text](https://github.com/himalayaashish/Production_ready_tensorflow/blob/master/mlops.gif?raw=true)
 
 
 To run notebook - Please make sure to have the csv file in the same location or change the path.
