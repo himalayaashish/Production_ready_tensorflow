@@ -3,7 +3,7 @@
 <div align="center"> 🚀 Welcome to my git repo :FakeAdClicksDetection:</div>
 
 ### Fake Ad Clicks Detection Using Tensorflow and Machine Learning 
-<img src="https://github.com/himalayaashish/Production_ready_tensorflow/blob/master/mlops.gif?raw=true" alt="Lumbar Detection" width="500"/>
+<img src="https://github.com/himalayaashish/FakeAdClicksDetection/blob/master/mlops.gif?raw=true" alt="Lumbar Detection" width="500"/>
 
 ###### This project focuses on detecting fake ad clicks using advanced machine learning techniques. I applied models to classify legitimate and fraudulent clicks based on patterns and user behavior data. The system leverages data preprocessing, model training, and evaluation to optimize the detection process for real-time applications.
 
